@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Tipo": "Doble Cabina",
+    "Patente": "AA0030AD",
+    "Distancia": 350,
+    "VolumenCarga": 3300
+  },
+  {
+    "Tipo": "Furgón",
+    "Patente": "AE7180J",
+    "Distancia": 550,
+    "VolumenCarga" 5800
+  },
+  {
+    "Tipo": "Piso Cabina",
+    "Patente": "AB5780EZJ16",
+    "Distancia": 750,
+    "VolumenCarga": 6700
+  }
+]

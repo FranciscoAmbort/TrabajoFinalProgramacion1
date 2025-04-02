@@ -1,0 +1,14 @@
+﻿[
+  {
+    "CodProducto": 1,
+    "NombreProducto": "Lapiz",
+    "MarcaProducto": "Bic",
+    "AnchoCaja": 10.0,
+    "ProfundidadCaja": 10.0,
+    "AltoCaja": 10.0,
+    "PrecioProducto": 100.0,
+    "StockMinimo": 10,
+    "Stock": 8,
+    "FechaDeEliminacion": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "CodCompra": 1,
+    "CodProducto": 1,
+    "DniCliente": 46041588,
+    "FechaDeCompra": "2024-10-28T23:38:37.071778-03:00",
+    "CantidadComprada": 4,
+    "MontoTotal": 726.0,
+    "FechaDeEntrega": "2024-10-31T00:00:00",
+    "FechaDeActualizacion": null,
+    "FechaDeEliminacion": null,
+    "LatitudCliente": -31.64881,
+    "LongitudCliente": -60.70868,
+    "EstadoDeCompra": 2
+  },
+  {
+    "CodCompra": 2,
+    "CodProducto": 1,
+    "DniCliente": 46297759,
+    "FechaDeCompra": "2024-10-29T19:34:08.1994402-03:00",
+    "CantidadComprada": 2,
+    "MontoTotal": 363.0,
+    "FechaDeEntrega": "2024-11-29T22:39:29.594Z",
+    "FechaDeActualizacion": "2024-10-29T19:39:53.135392-03:00",
+    "FechaDeEliminacion": "2024-10-29T19:35:53.1145343-03:00",
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105,
+    "EstadoDeCompra": 1
+  },
+  {
+    "CodCompra": 3,
+    "CodProducto": 1,
+    "DniCliente": 46297759,
+    "FechaDeCompra": "2024-10-29T19:47:30.0359408-03:00",
+    "CantidadComprada": 10,
+    "MontoTotal": 90.75,
+    "FechaDeEntrega": "2024-11-29T22:47:07.527Z",
+    "FechaDeActualizacion": null,
+    "FechaDeEliminacion": null,
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105,
+    "EstadoDeCompra": 1
+  }
+]

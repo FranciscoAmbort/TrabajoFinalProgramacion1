@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="AsginarViaje.css">
+
+    <title>Formulario Asignar Viaje</title>
+</head>
+<body>
+  
+
+    <header>  <h1> Agregar un Nuevo Viaje</h1>  </header>
+    <main>
+        <a href="Principal.html"> Volver a la página principal</a>
+
+        <form action="procesar.php" method="post" id="FormularioAsignarViajes">
+
+
+            <label for="FechaDeEntregaDesde">Fecha de Inicio:</label>
+            <input type="date" id="FechaDeEntregaDesde" name="FechaDeEntregaDesde" required /><br /><br />
+
+            <label for="FechaEntregaHasta">Fecha de Vencimiento:</label>
+            <input type="date" id="FechaEntregaHasta" name="FechaEntregaHasta" required />
+
+
+
+            </select><br /><br />
+        </form>
+
+
+
+
+    </main>
+
+    <input type="submit" id="Enviar" value="Enviar" form="FormularioAsignarViajes">
+    <input type="reset" id="Reset" value="Restablecer" form="FormularioAsignarViajes">
+
+    <script src="AsignarViaje.js"></script>
+
+
+
+</body>
+</html>

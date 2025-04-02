@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="ActualizarStock.css">
+
+    <title>Formulario de Actualizar Stock</title>
+</head>
+<body>
+
+
+
+    <header>  <h1> Actualizar Stock</h1>  </header>
+    <main>
+        <a href="Principal.html"> Volver a la página principal</a>
+
+        <form action="procesar.php" method="post" id="FormularioStock">
+            <label for="CodProducto">Ingrese el codigo de producto a actualizar</label>
+            <input type="number" id="CodProducto" name="CodProducto" required />
+            <br />
+            <label for="Stock">Ingrese la cantidad en stock a sumar</label>
+            <input type="number" id="Stock" name="Stock" required />
+
+        </form>
+
+    </main>
+
+    <input type="submit" id="Enviar" value="Enviar" form="FormularioStock">
+    <input type="reset" id="Reset" value="Restablecer" form="FormularioStock">
+
+    <script src="ActualizarStock.js"></script>
+
+
+
+</body>
+</html>

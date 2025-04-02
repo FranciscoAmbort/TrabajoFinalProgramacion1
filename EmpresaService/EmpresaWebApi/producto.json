@@ -1,0 +1,16 @@
+[
+  {
+    "CodProducto": 1,
+    "NombreProducto": "Lapiz",
+    "MarcaProducto": "lapiz de color rojo",
+    "AnchoCaja": 3.0,
+    "ProfundidadCaja": 3.0,
+    "AltoCaja": 3.0,
+    "PrecioProducto": 110.0,
+    "StockMinimo": 2,
+    "Stock": 10,
+    "FechaCreacion": "2024-10-28T23:20:59.657559-03:00",
+    "FechaActualizacion": "0001-01-01T00:00:00",
+    "FechaDeEliminacion": null
+  }
+]

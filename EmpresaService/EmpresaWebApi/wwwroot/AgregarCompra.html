@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="AgregarCompra.css">
+
+    <title>Formulario de Agregar Compra</title>
+</head>
+<body>
+
+    <header>  <h1> Agregar una Nueva Compra</h1>  </header>
+    <main>
+        <a href="Principal.html"> Volver a la página principal</a>
+
+        <form action="procesar.php" method="post" id="FormularioAgregarCompra">
+
+
+            <label for="CodProducto">Código del Producto:</label>
+            <input type="number" id="CodProducto" name="CodProducto" required /><br /><br />
+
+            <label for="DniCliente">DNI del Cliente:</label>
+            <input type="number" id="DniCliente" name="DniCliente" required /><br /><br />
+
+            <label for="CantidadComprada">Cantidad Comprada:</label>
+            <input type="number" id="CantidadComprada" name="CantidadComprada" required /><br /><br />
+
+            <label for="FechaDeEntrega">Fecha de Entrega:</label>
+            <input type="date" id="FechaDeEntrega" name="FechaDeEntrega" required /><br /><br />
+
+            </select><br /><br />
+        </form>
+
+
+
+
+    </main>
+
+    <input type="submit" id="Enviar" value="Enviar" form="FormularioAgregarCompra">
+    <input type="reset" id="Reset" value="Restablecer" form="FormularioAgregarCompra">
+
+    <script src="AgregarCompra.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+[
+  {
+    "CodProducto": 2,
+    "NombreProducto": "papa",
+    "MarcaProducto": "frita",
+    "AnchoCaja": 10.0,
+    "ProfundidadCaja": 10.0,
+    "AltoCaja": 10.0,
+    "PrecioProducto": 100.0,
+    "StockMinimo": 10,
+    "Stock": 100,
+    "FechaCreacion": "2024-10-29T19:41:08.0953632-03:00",
+    "FechaActualizacion": "0001-01-01T00:00:00",
+    "FechaDeEliminacion": null
+  },
+  {
+    "CodProducto": 1,
+    "NombreProducto": "sng",
+    "MarcaProducto": "stg",
+    "AnchoCaja": 10.0,
+    "ProfundidadCaja": 15.0,
+    "AltoCaja": 5.0,
+    "PrecioProducto": 10.0,
+    "StockMinimo": 1,
+    "Stock": 2512,
+    "FechaCreacion": "2024-10-28T23:26:25.6169019-03:00",
+    "FechaActualizacion": "2024-10-29T19:42:42.3985235-03:00",
+    "FechaDeEliminacion": "2024-10-29T19:43:31.7428842-03:00"
+  }
+]

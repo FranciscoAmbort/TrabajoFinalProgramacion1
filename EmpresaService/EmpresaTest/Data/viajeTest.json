@@ -1,0 +1,42 @@
+﻿[
+  {
+    "CodViaje": 1,
+    "PatenteCamionAsociado": "AA0030D",
+    "FechaDeEntregaDesde": "2024-09-09T00:00:00",
+    "FechaEntregaHasta": "2024-09-15T00:00:00",
+    "PorcentajeOcupacionCarga": 60.60606060606061,
+    "CodigosDeCompra": [
+      2,
+      3
+    ],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "0001-01-01T00:00:00"
+  },
+  {
+    "CodViaje": 2,
+    "PatenteCamionAsociado": "AE7180J",
+    "FechaDeEntregaDesde": "2024-09-09T00:00:00",
+    "FechaEntregaHasta": "2024-09-15T00:00:00",
+    "PorcentajeOcupacionCarga": 34.48275862068966,
+    "CodigosDeCompra": [
+      4
+    ],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "0001-01-01T00:00:00"
+  },
+  {
+    "CodViaje": 3,
+    "PatenteCamionAsociado": "AB5780E",
+    "FechaDeEntregaDesde": "2024-09-09T00:00:00",
+    "FechaEntregaHasta": "2024-09-15T00:00:00",
+    "PorcentajeOcupacionCarga": 59.701492537313435,
+    "CodigosDeCompra": [
+      5
+    ],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "0001-01-01T00:00:00"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "CodViaje": 1,
+    "PatenteCamionAsociado": "AA0030D",
+    "FechaDeEntregaDesde": "2024-10-29T00:00:00",
+    "FechaEntregaHasta": "2024-11-02T00:00:00",
+    "PorcentajeOcupacionCarga": 0.0,
+    "CodigosDeCompra": [],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "2024-10-28T23:39:44.5133977-03:00"
+  },
+  {
+    "CodViaje": 2,
+    "PatenteCamionAsociado": "AE7180J",
+    "FechaDeEntregaDesde": "2024-10-29T00:00:00",
+    "FechaEntregaHasta": "2024-11-02T00:00:00",
+    "PorcentajeOcupacionCarga": 68.96551724137932,
+    "CodigosDeCompra": [
+      1
+    ],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "2024-10-28T23:39:44.51343-03:00"
+  },
+  {
+    "CodViaje": 3,
+    "PatenteCamionAsociado": "AB5780E",
+    "FechaDeEntregaDesde": "2024-10-29T00:00:00",
+    "FechaEntregaHasta": "2024-11-02T00:00:00",
+    "PorcentajeOcupacionCarga": 0.0,
+    "CodigosDeCompra": [],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "2024-10-28T23:39:44.5134301-03:00"
+  },
+  {
+    "CodViaje": 4,
+    "PatenteCamionAsociado": "AA0030D",
+    "FechaDeEntregaDesde": "2024-11-29T00:00:00",
+    "FechaEntregaHasta": "2024-11-30T00:00:00",
+    "PorcentajeOcupacionCarga": 0.0,
+    "CodigosDeCompra": [],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "2024-10-29T19:47:44.4138146-03:00"
+  },
+  {
+    "CodViaje": 5,
+    "PatenteCamionAsociado": "AE7180J",
+    "FechaDeEntregaDesde": "2024-11-29T00:00:00",
+    "FechaEntregaHasta": "2024-11-30T00:00:00",
+    "PorcentajeOcupacionCarga": 0.0,
+    "CodigosDeCompra": [],
+    "FechaDeEliminacion": null,
+    "FechaDeActualizacion": null,
+    "FechaDeCreacion": "2024-10-29T19:47:44.4138169-03:00"
+  },
+  {
+    "CodViaje": 6,
+    "PatenteCamionAsociado": "AB5780E",
+    "FechaDeEntregaDesde": "2024-12-02T00:00:00",
+    "FechaEntregaHasta": "2024-12-04T00:00:00",
+    "PorcentajeOcupacionCarga": 0.0,
+    "CodigosDeCompra": [],
+    "FechaDeEliminacion": "2024-10-29T19:49:53.1194675-03:00",
+    "FechaDeActualizacion": "2024-10-29T19:49:30.0332122-03:00",
+    "FechaDeCreacion": "2024-10-29T19:47:44.4138171-03:00"
+  }
+]

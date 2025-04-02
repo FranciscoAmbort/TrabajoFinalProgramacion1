@@ -1,0 +1,72 @@
+﻿[
+  {
+    "CodCompra": 1,
+    "CodProducto": 1,
+    "DniCliente": 46218245,
+    "FechaDeCompra": "2024-10-02T16:46:50.888147-03:00",
+    "CantidadComprada": 1,
+    "MontoTotal": 907.5,
+    "FechaDeEntrega": "2024-10-11T19:46:22.341Z",
+    "FechaDeActualizacion": null,
+    "FechaDeEliminacion": null,
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105,
+    "EstadoDeCompra": 1
+  },
+  {
+    "CodCompra": 2,
+    "CodProducto": 1,
+    "DniCliente": 46218245,
+    "FechaDeCompra": "2024-10-08T10:23:00.4712196-03:00",
+    "CantidadComprada": 1,
+    "MontoTotal": 907.5,
+    "FechaDeEntrega": "2024-10-10T00:00:00",
+    "FechaDeActualizacion": null,
+    "FechaDeEliminacion": null,
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105,
+    "EstadoDeCompra": 1
+  },
+  {
+    "CodCompra": 3,
+    "CodProducto": 1,
+    "DniCliente": 46218245,
+    "FechaDeCompra": "2024-10-08T10:27:29.4771111-03:00",
+    "CantidadComprada": 1,
+    "MontoTotal": 1270.5,
+    "FechaDeEntrega": "2024-10-10T00:00:00",
+    "FechaDeActualizacion": null,
+    "FechaDeEliminacion": null,
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105,
+    "EstadoDeCompra": 1
+  },
+  {
+    "CodCompra": 4,
+    "CodProducto": 1,
+    "DniCliente": 46218245,
+    "FechaDeCompra": "2024-10-08T10:35:26.438611-03:00",
+    "CantidadComprada": 2,
+    "MontoTotal": 1905.75,
+    "FechaDeEntrega": "2024-10-15T00:00:00",
+    "FechaDeActualizacion": null,
+    "FechaDeEliminacion": null,
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105,
+    "EstadoDeCompra": 1
+  },
+  {
+    "CodCompra": 5,
+    "CodProducto": 1,
+    "DniCliente": 46218245,
+    "FechaDeCompra": "2024-10-09T09:53:04.9827075-03:00",
+    "CantidadComprada": 4,
+    "MontoTotal": 635.25,
+    "FechaDeEntrega": "2024-10-16T00:00:00",
+    "FechaDeActualizacion": null,
+    "FechaDeEliminacion": null,
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105,
+    "EstadoDeCompra": 1
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "DniCliente": 46041588,
+    "NombreCliente": "matt",
+    "ApellidoCliente": "caste",
+    "EmailCliente": "matt@gmail.com",
+    "TelefonoCliente": 677488,
+    "FechaCreacion": "2024-10-28T23:37:01.5844325-03:00",
+    "FechaEliminacion": null,
+    "FechaActualizacion": null,
+    "FechaNacimientoCliente": "2004-10-29T00:00:00",
+    "LatitudCliente": -31.64881,
+    "LongitudCliente": -60.70868
+  },
+  {
+    "DniCliente": 46297759,
+    "NombreCliente": "pp",
+    "ApellidoCliente": "pp",
+    "EmailCliente": "fra@gm.com",
+    "TelefonoCliente": 483647,
+    "FechaCreacion": "2024-10-29T19:29:14.3653654-03:00",
+    "FechaEliminacion": "2024-10-29T19:32:52.9867405-03:00",
+    "FechaActualizacion": "2024-10-29T19:31:46.9816588-03:00",
+    "FechaNacimientoCliente": "2024-10-29T00:00:00",
+    "LatitudCliente": -31.4135,
+    "LongitudCliente": -64.18105
+  }
+]
